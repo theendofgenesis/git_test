@@ -1,2 +1,1 @@
-# git_test
-First tutorial project from The Odin Project
+Genesis' solution of the first tutorial project on The Odin Project
